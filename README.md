@@ -109,7 +109,7 @@ if(NUM_LOOPS>=10)    {
     return 0;}
 ```
 
-OUTPUT
+## OUTPUT
 ![image](https://github.com/user-attachments/assets/49adba27-e8a4-4506-99ea-ff8b86005f5b)
 
 
